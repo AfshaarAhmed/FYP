@@ -1,2 +1,0 @@
-# FYP
-Ecommerece website
